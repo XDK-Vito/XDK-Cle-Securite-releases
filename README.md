@@ -8,7 +8,7 @@ navigateur, t'explique quoi faire, et retient ce qui est fait, seulement sur ton
 
 ## Télécharger
 
-1. Ouvre la [dernière version](https://github.com/xavstream/XDK-Cle-Securite-releases/releases/latest).
+1. Ouvre la [dernière version](https://github.com/XDK-Vito/XDK-Cle-Securite-releases/releases/latest).
 2. Télécharge **`XDKCleSecurite.exe`** (le fichier `.sig` à côté sert seulement à vérifier les mises à jour).
 3. Lance-le.
 
